@@ -12,31 +12,29 @@
   </div>
   
   <h2>Instruments and skills</h2>
-
-  <p>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/ARCH.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/CSHARP.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/DOCKER.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/FIGMA.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/GIT.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/KAFKA.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/OPENAI.png" width="50" height="50"/>
-  </p>
-  
-  <p>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/MINECRAFT.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/POSTGRE.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/REDDIS.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/RIDER.png" width="50" height="50"/>
-    <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/VSCODE.png" width="50" height="50"/>
-  </p>
+      <p>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/ARCH.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/CSHARP.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/DOCKER.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/FIGMA.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/GIT.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/KAFKA.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/OPENAI.png"/>
+      </p>
+      <p>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/MINECRAFT.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/POSTGRE.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/REDDIS.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/RIDER.png"/>
+        <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/VSCODE.png"/>
+      </p>
   
   <h2>Links</h2>
   
   <p>
-    <a href="https://kwork.ru/user/jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/YOUTUBE.png" width="50" height="50"/> </a>
-    <a href="https://www.youtube.com/@Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/YOUTUBE.png" width="50" height="50"/> </a>
-    <a href="https://t.me/Jestryrn_fl"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/TELEGRAM.png" width="50" height="50"/> </a>
-    <a href="https://github.com/Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/GITHUB.png" width="50" height="50"/> </a>
+    <a href="https://kwork.ru/user/jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/KWORK.png"/> </a>
+    <a href="https://www.youtube.com/@Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/YOUTUBE.png"/> </a>
+    <a href="https://t.me/Jestryrn_fl"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/TELEGRAM.png"/> </a>
+    <a href="https://github.com/Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/GITHUB.png"/> </a>
   </p>
 </div>
