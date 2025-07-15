@@ -34,7 +34,7 @@
   <p>
     <a href="https://kwork.ru/user/jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/KWORK.png"/> </a>
     <a href="https://www.youtube.com/@Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/YOUTUBE.png"/> </a>
-    <a href="https://t.me/Jestryrn_fl"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/TELEGRAM.png"/> </a>
+    <a href="t.me/Jes_bio"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/TELEGRAM.png"/> </a>
     <a href="https://github.com/Jestyrn"> <img src="https://github.com/Jestyrn/mowech/blob/main/pngs/GITHUB.png"/> </a>
   </p>
 </div>
